@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Jonas aka Yonku and I am a web developer and art enthusiast with a passion <br>for creating intuitive and aesthetically pleasing websites and applications. Constantly working on new skills. <br>When I'm not coding, you can find me reading about the latest industry trends and watching for new technologies.
+Hi there! My name is Jonas aka 'Yonku' and I am a web developer and art enthusiast with a passion <br>for creating intuitive and aesthetically pleasing websites and applications. Constantly working on new skills. <br>When I'm not coding, you can find me reading about the latest industry trends and watching for new technologies.
 
 
 # 💻 Tech Stack:
